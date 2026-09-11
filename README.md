@@ -11,7 +11,7 @@ This is a cat picture: https://www.google.com/url?sa=t&source=web&rct=j&url=http
 
 - What are the main concepts learned?
     learned how to create branches and work on them instead of main
-  
     how to do the above 
+    
 - What are the main commands used?
       i learned the words push, pull, commit in github
